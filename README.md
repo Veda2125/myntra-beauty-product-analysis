@@ -19,7 +19,6 @@ This dashboard provides a comprehensive analysis of Myntra's beauty products, in
 - **Price Analysis**: Price categories (High, Medium, Low) segmented by skin type.
   - Price categories (High, Medium, Low) by skin type.
   - Packaging types (Jar, Bottle, Tube, etc.) and their price distribution. 
-- **Packaging Types**: Jar, Bottle, Tube, etc., and their price distribution.  
 - **Product Indicators**: Premium vs. Standard products.  
 - **Usage Frequency**: Reviews and prices segmented by Daily, Weekly, Monthly, and Occasional usage.  
 
